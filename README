@@ -1,0 +1,16 @@
+﻿Fork from http://code.google.com/p/codebrowser-android/
+
+-----------------------
+这里是CodeBrowser的官方发布页面，现在的版本是3.0 Here is the homepage of CodeBrowser,the latest version is 3.0
+
+关于CodeBrowser
+
+这是一个支持大约11种语言高亮的Android程序，这个软件可以为你提供Android平台上的代码浏览功能，方便程序员在随身设备上浏览代码。这是我业余时间的产品，所以还很不完善，作者目前就在这里发布，如果您有兴趣就下载使用吧，目前推出了平板版本和手机版本。 平板版本需要Android 3.0+手机版本需要Android 1.6+ 有什么建议和bug，欢迎给我发邮件：zerob13@gmail.com
+
+About CodeBrowser
+
+This Android app supports about 11 languages highlighting.You can use it to read code on your Android .It's a free app.We both have Table version(Android 3.0+) and mobile phone version(Android 1.6+). If you have some questions about this,please contact me:zerob13@gmail.com.
+
+支持语言(supported language)：
+
+c/c++ c# css java php python bash SQL VB/Basic XML JavaScript

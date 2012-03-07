@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="50px">
+	<TextView android:text="@+id/TextView01" android:id="@+id/fm_text_01"
+		android:layout_width="wrap_content" android:layout_height="50px"
+		android:textSize="22sp"></TextView>
+</LinearLayout>
